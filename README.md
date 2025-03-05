@@ -7,5 +7,5 @@
 - Developed first with the Mobile First methodology, then for desktop.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
-![preview img](/https://github.com/Mayanktiwarixd/PERSONAL-PORTFOLIO/blob/main/heheh.png)
+![preview img](https://github.com/Mayanktiwarixd/PERSONAL-PORTFOLIO/blob/main/heheh.png)
 
